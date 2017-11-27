@@ -74,7 +74,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="tLA-cY-BdN">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="170914_dsr_tegan_chin_014" translatesAutoresizingMaskIntoConstraints="NO" id="tLA-cY-BdN">
                                 <rect key="frame" x="21" y="449" width="111" height="118"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -92,4 +92,7 @@
             <point key="canvasLocation" x="117.59999999999999" y="92.203898050974516"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="170914_dsr_tegan_chin_014" width="1840" height="1228"/>
+    </resources>
 </document>
