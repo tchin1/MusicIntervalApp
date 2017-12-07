@@ -11,6 +11,21 @@
     </dependencies>
     <scenes>
         <!--View Controller-->
+        <scene sceneID="560-OK-MFs">
+            <objects>
+                <viewController id="VKx-fx-iVJ" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="22H-rP-Qc8">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="0.61763697862625122" green="0.015991305932402611" blue="0.00638592429459095" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <viewLayoutGuide key="safeArea" id="i6N-Hp-BEl"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="16m-h5-RaI" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-641" y="92"/>
+        </scene>
+        <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Music_Interval_App" customModuleProvider="target" sceneMemberID="viewController">
