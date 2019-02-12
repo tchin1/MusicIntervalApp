@@ -23,4 +23,4 @@ This app will enable people to show case their ear training skills by playing a 
 
 ## Behind the App
 
-This was the first prototype of our musical interval app for a team project. We ended up redoing the app. [Click here to see the end result of our app.](https://github.com/tchin1/Steps.git "Steps App Repository")
+This was the first prototype of our musical interval app for a team project. We ended up remaking the app due to the realization that we could not accomplish what we had in mind with the current skills we had by the due date. [Click here to see the end result of our app.](https://github.com/tchin1/Steps.git "Steps App Repository")
