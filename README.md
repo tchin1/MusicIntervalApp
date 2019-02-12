@@ -8,7 +8,7 @@ Steps is orginally developed for music therapy students to help train their ears
 This app will enable people to show case their ear training skills by playing a game against themselves or others, hone their ear training by being able to listen to what each interval sounds like, and compose different intervals on a piano.
 
 
-### About the Developers
+## About the Developers
 
 **Alex**
 
@@ -21,3 +21,6 @@ This app will enable people to show case their ear training skills by playing a 
 **Tegan**
 
 
+## Behind the App
+
+This was the first prototype of our musical interval app for a team project. We ended up redoing the app. [Click here to see the end result of our app.](https://github.com/tchin1/Steps.git "Steps App Repository")
